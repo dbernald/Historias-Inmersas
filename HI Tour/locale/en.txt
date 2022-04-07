@@ -1,0 +1,13 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_0ED9A512_0557_8078_4176_83F0755CD40F.label = Screen Shot 2022-02-17 at 5.36.26 PM
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
